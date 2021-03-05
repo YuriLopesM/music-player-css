@@ -3,7 +3,7 @@ A music player UI concept for mobile application. Just design and CSS, with a mu
 
 <p align="center">
   
-  ![Logo-PlayIn](https://user-images.githubusercontent.com/75103144/110166517-41c60500-7dd3-11eb-9417-2b83c6b4c370.png)
+  <img src="https://user-images.githubusercontent.com/75103144/110166517-41c60500-7dd3-11eb-9417-2b83c6b4c370.png">
   
 </p>
 
