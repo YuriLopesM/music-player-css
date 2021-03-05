@@ -1,5 +1,8 @@
 # 🎵 PlayIn
-A music player UI concept for mobile application. Just design and CSS, with a music that I love.
+
+### UI Concept - Music Player
+
+Training CSS with a project that I like. Vercel deploy on environments. **Not responsive!**
 
 <p align="center">
   
